@@ -3,9 +3,9 @@
 
 [![Build](https://ci.appveyor.com/api/projects/status/7jvnai7and6coqgw?svg=true)](https://ci.appveyor.com/project/npeplov/ahj-forms-popovers)
 
-Environment: https://npeplov.github.io/ahj-popovers
+Environment: https://npeplov.github.io/ahj-forms-popovers
 
-License: https://npeplov.github.io/ahj-popovers/license.txt
+License: https://npeplov.github.io/ahj-forms-popovers/license.txt
 
 ---
 
