@@ -1,7 +1,7 @@
 #### Домашние задания к курсу «Продвинутый JavaScript в браузере»
 ### 5. Forms. Popovers
 
-[![Build](https://ci.appveyor.com/api/projects/status/r3u97lakvrc34hv7?svg=true)](https://ci.appveyor.com/project/npeplov/ahj-testing)
+[![Build](https://ci.appveyor.com/api/projects/status/7jvnai7and6coqgw?svg=true)](https://ci.appveyor.com/project/npeplov/ahj-forms-popovers)
 
 Environment: https://npeplov.github.io/ahj-popovers
 
